@@ -3,7 +3,7 @@
 pragma solidity ^0.8.0;
 
 /*
- * @title Solidity data types
+ * @title Solidity flow control
  * @author Michael Solomon
  * @notice A simply smart contract to demonstrate control flow with conditions and iterations in Solidity
  *
