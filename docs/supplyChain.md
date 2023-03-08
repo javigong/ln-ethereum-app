@@ -1,6 +1,6 @@
 # Supply Chain Smart Contract
 
-- This smart contract defines all the details in the suppy chain process; basically everything outside of payment.
+- This smart contract defines all the details in the supply chain process; basically everything outside of payment.
 
 - The supply chain smart contract use high-level structures, unlike the token smart contract, with multiple data types in each structure.
 
